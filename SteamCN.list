@@ -1,7 +1,8 @@
 # 内容：SteamCN
-# 数量：14条
-DOMAIN-SUFFIX,store.steampowered.com
+# 数量：17条
 DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
