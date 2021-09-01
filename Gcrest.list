@@ -1,11 +1,9 @@
 # 内容：Gcrest
-# 数量：14条
+# 数量：9条
 
+PROCESS-NAME,com.gcrest.yume100prince.android
+PROCESS-NAME,com.gcrest.akaseka.android
 DOMAIN-KEYWORD,yume-100
 DOMAIN-KEYWORD,akaseka
-DOMAIN-SUFFIX,resource.yume-100.com
-DOMAIN-SUFFIX,api.yume-100.com
-DOMAIN-SUFFIX,api.akaseka.com
-DOMAIN-SUFFIX,down.akaseka.com
 DOMAIN-SUFFIX,yume-100.com
 DOMAIN-SUFFIX,akaseka.com
