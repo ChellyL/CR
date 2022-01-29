@@ -1,0 +1,11 @@
+# 内容：DMM Game
+# 数量：6条
+
+DOMAIN-KEYWORD,bungo
+DOMAIN-KEYWORD,touken-ranbu
+
+DOMAIN-SUFFIX,bungo.dmmgames.com
+DOMAIN-SUFFIX,touken-ranbu.jp
+
+PROCESS-NAME,com.dmmgames.bunal
+PROCESS-NAME,com.dmm.games.touken
