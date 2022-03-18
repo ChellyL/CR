@@ -1,0 +1,6 @@
+# 内容：WeiboMedia
+# 数量：3条
+
+DOMAIN-SUFFIX,multimedia.api.weibo.com
+DOMAIN-SUFFIX,f.video.weibocdn.com
+DOMAIN-SUFFIX,live.weibo.com
