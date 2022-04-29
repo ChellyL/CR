@@ -22,19 +22,22 @@
 (https://github.com/o0HalfLife0o/list)
 
 ad-pc.txt [推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则
-+ https://github.com/o0HalfLife0o/list/raw/master/ad-pc.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad-pc.txt
 
 ad-mo.txt 合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
-+ https://github.com/o0HalfLife0o/list/raw/master/ad-mo.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad-mo.txt
 
 ad.txt [推荐移动端]合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则
-+ https://github.com/o0HalfLife0o/list/raw/master/ad.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad.txt
 
 ad2.txt 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
-+ https://github.com/o0HalfLife0o/list/raw/master/ad2.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad2.txt
 
 ad3.txt 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy
-+ https://github.com/o0HalfLife0o/list/raw/master/ad3.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad3.txt
+
+ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
++ https://raw.githubusercontent.com/o0HalfLife0o/list/raw/master/ad-edentw.txt
 
 ## CJX规则: 
 (https://github.com/cjx82630/cjxlist) 
