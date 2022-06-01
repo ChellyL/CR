@@ -28,7 +28,7 @@ ad-mo.txt 合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 + https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
 
 ad.txt [推荐移动端]合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则
-+ https://raw.githubusercontent.com/o0HalfLife0o/list/master//ad.txt
++ https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 
 ad2.txt 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 + https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
