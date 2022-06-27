@@ -5,4 +5,8 @@
 # DOMAIN-KEYWORD: 1
 # TOTAL: 1
 DOMAIN-KEYWORD,weibo
-# DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-KEYWORD,tieba
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,tieba.baidu.com
