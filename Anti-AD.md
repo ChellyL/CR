@@ -58,3 +58,8 @@ ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblo
 这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.
 
 + https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+## Neo Dev Host 
+(https://github.com/neodevpro/neodevhost)
+
++ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
