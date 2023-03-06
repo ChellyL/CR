@@ -19,7 +19,7 @@
 + http://sub.adtchrome.com/adt-chinalist-easylist.txt
 
 ## Halflife整合:
-(https://github.com/o0HalfLife0o/list)
+(https://github.com/pvqogw/list)
 
 ad-pc.txt [推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则
 + https://raw.githubusercontent.com/pvqogw/list/master/ad-pc.txt
