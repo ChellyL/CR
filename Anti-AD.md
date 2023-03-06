@@ -9,9 +9,9 @@
 ## 乘风规则:
 (https://github.com/xinggsf/Adblock-Plus-Rule) 
 
-+ https://raw.githubusercontents.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
++ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
 
-+ https://raw.githubusercontents.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
++ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 
 ## 广告终结者:
 (https://www.adtchrome.com)
