@@ -5,19 +5,6 @@
  + https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
 
 
-
-## 乘风规则:
-(https://github.com/xinggsf/Adblock-Plus-Rule) 
-
-+ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-
-+ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-
-## 广告终结者:
-(https://www.adtchrome.com)
-
-+ http://sub.adtchrome.com/adt-chinalist-easylist.txt
-
 ## Halflife整合:
 (https://github.com/pvqogw/list)
 
@@ -39,6 +26,36 @@ ad3.txt 合并自乘风视频广告过滤规则、EasylistChina、EasylistLite�
 ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
 + https://raw.githubusercontent.com/pvqogw/list/master/ad-edentw.txt
 
+
+
+## Neo Dev Host 
+(https://github.com/neodevpro/neodevhost)
+
++ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
++ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
+
+## AdRules：
+（https://github.com/Cats-Team/AdRules）
++ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt
++ https://raw.githubusercontent.com/Cats-Team/AdRules/main/smart-dns.conf
++ https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt
++ https://raw.githubusercontent.com/Cats-Team/AdRules/main/qx.conf
+
+
+## 乘风规则:
+(https://github.com/xinggsf/Adblock-Plus-Rule) 
+
++ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+
++ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+
+
+## 广告终结者:
+(https://www.adtchrome.com)
+
++ http://sub.adtchrome.com/adt-chinalist-easylist.txt
+
+
 ## CJX规则: 
 (https://github.com/cjx82630/cjxlist) 
 
@@ -59,8 +76,3 @@ ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblo
 
 + https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
-## Neo Dev Host 
-(https://github.com/neodevpro/neodevhost)
-
-+ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
-+ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
