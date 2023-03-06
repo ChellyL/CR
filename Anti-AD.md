@@ -63,3 +63,4 @@ ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblo
 (https://github.com/neodevpro/neodevhost)
 
 + https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
++ https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
