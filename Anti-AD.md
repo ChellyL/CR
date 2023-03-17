@@ -35,7 +35,7 @@ ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblo
 + https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
 
 ## AdRules：
-（https://github.com/Cats-Team/AdRules）
+（https://github.com/Cats-Team/AdRules)
 + https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt
 + https://raw.githubusercontent.com/Cats-Team/AdRules/main/smart-dns.conf
 + https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt
