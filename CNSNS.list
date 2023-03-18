@@ -4,17 +4,17 @@
 # UPDATED: 2023-03-19 00:33:25
 # DOMAIN-KEYWORD: 1
 # TOTAL: 1
-# ======= 微博 ======= #
+# ======= 微博 =======
 # 微博
 # issue#5 报告发表和评论操作会暴露IP，建议不要使用手机客户端，无法确定是否存在其他IP或域名，已扩充到DOMAIN-SUFFIX
-# DOMAIN-SUFFIX,api.weibo.cn # 微博API域名
-# DOMAIN-SUFFIX,api.weibo.com # 微博API域名，com站以防万一
-# DOMAIN-SUFFIX,weibo.com # 微博全站域名，不包括内容CDN
+# DOMAIN-SUFFIX,api.weibo.cn 微博API域名
+# DOMAIN-SUFFIX,api.weibo.com 微博API域名，com站以防万一
+# DOMAIN-SUFFIX,weibo.com 微博全站域名，不包括内容CDN
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-KEYWORD,weibo
-# ======= 百度贴吧 ======= #
+# ======= 百度贴吧 =======
 # 百度贴吧
 DOMAIN,tieba.baidu.com
 # 百度贴吧域名，不存在单独的API域名
@@ -30,14 +30,15 @@ DOMAIN,hm.baidu.com
 # 百度统计
 DOMAIN,www.baidu.com
 # 网友提供贴吧IP定位接口
-#Update #32
+#Update32
 DOMAIN,tiebac.baidu.com
 # 贴吧App API域名
-# DOMAIN-KEYWORD,tieba # 极端方案，可能会代理图片CDN
+# DOMAIN-KEYWORD,tieba 极端方案，可能会代理图片CDN
 # https://github.com/lwd-temp/anti-ip-attribution/issues/35#issuecomment-1438885974
-IP-CIDR,180.76.76.0/24 # Public DNS
+IP-CIDR,180.76.76.0/24 
+# Public DNS
 DOMAIN,httpsdns.baidu.com
-# ======= 微信 ======= #
+# ======= 微信 =======
 # 微信通用
 DOMAIN,szshort.weixin.qq.com
 # 用途未知
@@ -50,10 +51,10 @@ DOMAIN,mp.weixin.qq.com
 # DOMAIN,szshort.weixin.qq.com
 # 疑似微信视频号，用途未知
 # 无法确定准确的请求方式，建议全局代理
-# ======= 小红书 ======= #
+# ======= 小红书 =======
 # issue#4 提供
 DOMAIN-SUFFIX,xiaohongshu.com
-# ======= 豆瓣 ======= #
+# ======= 豆瓣 ======= 
 # issue#14提供
 # iOS客户端
 # 目前无法可靠地处理iOS端的请求，建议全局代理
@@ -61,6 +62,6 @@ IP-CIDR,119.29.29.98/32,REJECT
 DOMAIN,frodo.douban.com
 # 网页端
 DOMAIN,www.douban.com
-# ======= 酷安 ======= #
+# ======= 酷安 =======
 # issue#15提供
 DOMAIN,api.coolapk.com
