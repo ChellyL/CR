@@ -5,7 +5,7 @@
 
  | 官网地址 | 用途 |
   |  ---  | ---  |
- |  https://anti-ad.net/anti-ad-adguard.txt  | AdGuard（匹配整个URL的域名部分） |
+ | https://anti-ad.net/adguard.txt  | AdGuard（匹配整个URL的域名部分） |
  | https://anti-ad.net/anti-ad-for-dnsmasq.conf  | dnsmasq及其衍生版本 |
  | https://anti-ad.net/surge.txt | Surge或其他工具 |
 
