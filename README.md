@@ -10,3 +10,5 @@ https://github.com/blackmatrix7/ios_rule_script
 https://github.com/kjfx/QuantumultX
 
 https://github.com/ddgksf2013/Profile
+
+https://github.com/Koolson/Qure
