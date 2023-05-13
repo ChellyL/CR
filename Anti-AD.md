@@ -6,6 +6,7 @@
  | 官网地址 | 用途 |
   |  ---  | ---  |
  | https://anti-ad.net/adguard.txt  | AdGuard（匹配整个URL的域名部分） |
+ |https://anti-ad.net/easylist.txt|AdGuardHome（DNS过滤）|
  | https://anti-ad.net/anti-ad-for-dnsmasq.conf  | dnsmasq及其衍生版本 |
  | https://anti-ad.net/surge.txt | Surge或其他工具 |
 
@@ -29,6 +30,17 @@
  |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward |保留广告奖励|
 |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt |Adblock规则|
 
+## AdRules：
+（https://github.com/Cats-Team/AdRules)
+
+ | 地址 |用途 |
+  |  ---  | ---|
+| https://adrules.top/adblock_lite.txt| AdRules AdBlock List Lite |
+|https://adrules.top/dns.txt| AdRules DNS List 
+|https://adrules.top/hosts.txt| AdRules Hosts List |
+|https://adrules.top/qx.conf| AdRules Quantumult X List |
+
+
 ## Neo Dev Host 
 (https://github.com/neodevpro/neodevhost)
 
@@ -38,16 +50,6 @@ Lite version (Without Dead Domain inside) 精简版（不包含过期域名）�
 |https://neodev.team/lite_adblocker | uBlock，Adguard ... 	|
 | https://neodev.team/lite_host | Pihole，Adaway，hBlock ...|
 |https://neodev.team/lite_dnsmasq.conf|Dns ...|
-
-## AdRules：
-（https://github.com/Cats-Team/AdRules)
-
- | 地址 |用途 |
-  |  ---  | ---|
-| https://adrules.top/adblock_lite.txt| AdRules AdBlock List Lite |
-|https://adrules.top/dns.conf| AdRules DNS List 
-|https://adrules.top/hosts.txt| AdRules Hosts List |
-|https://adrules.top/qx.conf| AdRules Quantumult X List |
 
 ----------
 
