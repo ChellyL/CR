@@ -20,6 +20,14 @@
 |https://raw.githubusercontent.com/pvqogw/list/master/ad3.txt |ad3.txt |合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy|
 |https://raw.githubusercontent.com/pvqogw/list/master/ad-edentw.txt | ad-edentw.txt |合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters|
 
+## 去广告 - 10007_auto
+（https://github.com/lingeringsound/10007_auto）
+
+ | 地址 | 分类|
+  |  ---  | ---|
+  |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all|完整版|
+ |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward |保留广告奖励|
+|https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt |Adblock规则|
 
 ## Neo Dev Host 
 (https://github.com/neodevpro/neodevhost)
@@ -31,6 +39,17 @@ Lite version (Without Dead Domain inside) 精简版（不包含过期域名）�
 | https://neodev.team/lite_host | Pihole，Adaway，hBlock ...|
 |https://neodev.team/lite_dnsmasq.conf|Dns ...|
 
+## AdRules：
+（https://github.com/Cats-Team/AdRules)
+
+ | 地址 |用途 |
+  |  ---  | ---|
+| https://adrules.top/adblock_lite.txt| AdRules AdBlock List Lite |
+|https://adrules.top/dns.conf| AdRules DNS List 
+|https://adrules.top/hosts.txt| AdRules Hosts List |
+|https://adrules.top/qx.conf| AdRules Quantumult X List |
+
+----------
 
 ## 乘风规则:
 (https://github.com/xinggsf/Adblock-Plus-Rule) 
@@ -57,12 +76,3 @@ Lite version (Without Dead Domain inside) 精简版（不包含过期域名）�
 
 + http://sub.adtchrome.com/adt-chinalist-easylist.txt
 
-## AdRules：
-（https://github.com/Cats-Team/AdRules)
-
- | 地址 |用途 |
-  |  ---  | ---|
-| https://adrules.top/adblock_lite.txt| AdRules AdBlock List Lite |
-|https://adrules.top/dns.conf| AdRules DNS List 
-|https://adrules.top/hosts.txt| AdRules Hosts List |
-|https://adrules.top/qx.conf| AdRules Quantumult X List |
