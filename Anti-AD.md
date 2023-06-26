@@ -22,7 +22,7 @@
 |https://raw.githubusercontent.com/pvqogw/list/master/ad-edentw.txt | ad-edentw.txt |合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters|
 
 ## 去广告 - 10007_auto
-（https://github.com/lingeringsound/10007_auto）
+（https://github.com/lingeringsound/10007_auto ）
 
  | 地址 | 分类|
   |  ---  | ---|
