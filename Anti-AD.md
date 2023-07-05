@@ -22,13 +22,20 @@
 |https://raw.githubusercontent.com/pvqogw/list/master/ad-edentw.txt | ad-edentw.txt |合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters|
 
 ## 去广告 - 10007_auto
-（https://github.com/lingeringsound/10007_auto ）
+(https://github.com/lingeringsound/10007_auto)
 
  | 地址 | 分类|
   |  ---  | ---|
   |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all|完整版|
  |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward |保留广告奖励|
 |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt |Adblock规则|
+
+## -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
+（https://github.com/TG-Twilight/AWAvenue-Adblock-Rule）
+ | 地址 | 分类|
+ |  ---  | ---|
+ |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt|Github订阅地址|
+ 
 
 ## AdRules：
 （https://github.com/Cats-Team/AdRules)
