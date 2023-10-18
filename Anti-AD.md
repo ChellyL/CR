@@ -36,7 +36,16 @@
  |  ---  | ---|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt|Github订阅地址|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt|激进版|
- 
+
+## adblock_list
+（https://github.com/uniartisan/adblock_list）
+ | 地址 | 分类|
+ |  ---  | ---|
+ |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt|Adblock-basic - 面向于中文（尤其是指中国境内）网站而制作的过滤列表|
+ |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt|Adblock-lite - 面向于中文网站（同上）且针对移动设备优化的过滤列表|
+ |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt|Adblock-plus - 针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务|
+ |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt|Adblock-privacy -  阻止互联网常见的隐私跟踪，日志搜集器|
+
 
 ## AdRules：
 （https://github.com/Cats-Team/AdRules)
