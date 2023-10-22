@@ -30,15 +30,17 @@
  |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward |保留广告奖励|
 |https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt |Adblock规则|
 
+参考引用：大圣净化、yhost、Steven Black、oisd、1024、adhost
+
 ## -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
-（https://github.com/TG-Twilight/AWAvenue-Adblock-Rule）
+(https://github.com/TG-Twilight/AWAvenue-Adblock-Rule)
  | 地址 | 分类|
  |  ---  | ---|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt|Github订阅地址|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt|激进版|
 
 ## adblock_list
-（https://github.com/uniartisan/adblock_list）
+(https://github.com/uniartisan/adblock_list)
  | 地址 | 分类|
  |  ---  | ---|
  |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt|Adblock-basic - 面向于中文（尤其是指中国境内）网站而制作的过滤列表|
@@ -46,9 +48,10 @@
  |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt|Adblock-plus - 针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务|
  |https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt|Adblock-privacy -  阻止互联网常见的隐私跟踪，日志搜集器|
 
+上游来源：Adblock Plus、Adguard、cjx82630/cjxlist、iQDNS、jsDelivr
 
 ## AdRules：
-（https://github.com/Cats-Team/AdRules)
+(https://github.com/Cats-Team/AdRules)
 
  | 地址 |用途 |
   |  ---  | ---|
