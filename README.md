@@ -12,3 +12,7 @@ https://github.com/kjfx/QuantumultX
 https://github.com/ddgksf2013/Profile
 
 https://github.com/Koolson/Qure
+
+# Anti-AD
+
+https://github.com/ChellyL/CR/blob/main/Anti-AD.md
