@@ -10,6 +10,8 @@
  | https://anti-ad.net/anti-ad-for-dnsmasq.conf  | dnsmasq及其衍生版本 |
  | https://anti-ad.net/surge.txt | Surge或其他工具 |
 
+----
+
 
 ## Halflife整合:
 (https://github.com/pvqogw/list)
@@ -20,6 +22,8 @@
 |https://raw.githubusercontent.com/pvqogw/list/master/ad.txt |ad.txt [推荐移动端]|合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则|
 |https://raw.githubusercontent.com/pvqogw/list/master/ad3.txt |ad3.txt |合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy|
 |https://raw.githubusercontent.com/pvqogw/list/master/ad-edentw.txt | ad-edentw.txt |合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters|
+
+----
 
 ## 去广告 - 10007_auto
 (https://github.com/lingeringsound/10007_auto)
@@ -32,12 +36,27 @@
 
 参考引用：大圣净化、yhost、Steven Black、oisd、1024、adhost
 
+----
+
 ## -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
 (https://github.com/TG-Twilight/AWAvenue-Adblock-Rule)
  | 地址 | 分类|
  |  ---  | ---|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt|Github订阅地址|
  |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt|激进版|
+
+----
+
+## GOODBYEADS 一个强力去广告的规则
+(https://github.com/8680/GOODBYEADS)
+ | 地址 | 分类|
+ |  ---  | ---|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt|拦截|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt|白名单|
+
+上流：AdGuard规则、Tv规则、yhosts规则、大圣净化规则、EasyPrivacy隐私保护规则、乘风视频过滤规则、去APP下载提示规则、d3ward规则、补充规则
+
+----
 
 ## adblock_list
 (https://github.com/uniartisan/adblock_list)
@@ -50,6 +69,8 @@
 
 上游来源：Adblock Plus、Adguard、cjx82630/cjxlist、iQDNS、jsDelivr
 
+----
+
 ## AdRules：
 (https://github.com/Cats-Team/AdRules)
 
@@ -60,6 +81,8 @@
 |https://adrules.top/hosts.txt| AdRules Hosts List |
 |https://adrules.top/qx.conf| AdRules Quantumult X List |
 
+
+----
 
 ## Neo Dev Host 
 (https://github.com/neodevpro/neodevhost)
@@ -82,6 +105,8 @@ Lite version (Without Dead Domain inside) 精简版（不包含过期域名）�
 | https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt | 乘风通用过滤规则，适用于UBO或ADG扩展。ADG for PC 不支持 scriptlet规则|
 |https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt |乘风 小众视频过滤规则|
 
+----
+
 
 ## CJX规则: 
 (https://github.com/cjx82630/cjxlist) 
@@ -92,6 +117,8 @@ Lite version (Without Dead Domain inside) 精简版（不包含过期域名）�
 | https://easylist-downloads.adblockplus.org/easylistchina.txt | Easylist China |反广告主规则列表的补充。主要面向中文网站|
 | https://easylist-downloads.adblockplus.org/easyprivacy.txt |EasyPrivacy |防隐私跟踪挖矿规则列表|
 |  https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt |CJX's Annoyance List|反自我推广,移除anti adblock,防跟踪规则列表这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则|
+
+----
 
 ## 广告终结者:
 (https://www.adtchrome.com)
