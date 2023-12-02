@@ -1,7 +1,0 @@
-{"urls":
-  [
-  {"url":"https://raw.githubusercontent.com/ChellyL/CR/main/tv/danmu.json","name":"弹幕"},
-  {"url":"https://raw.githubusercontent.com/ChellyL/CR/main/tv/dongman.json","name":"动漫"},
-  {"url":"https://raw.githubusercontent.com/ChellyL/CR/main/tv/yingshi.json","name":"影视"}
-  ]
-}
