@@ -20,7 +20,6 @@
   {"url":"https://100km.top/0","name":"纯一骚零"},
   {"url":"https://wds.ecsxs.com/230989.json","name":"春盈天下"},
   {"url":"https://www.ywsj.cf/upload/2023/10/yyzq4k.json","name":"yw"},
-  {"url":"http://tt.58cxz.com/video/4k.json","name":"纯4k"},
-  {"url":"http://tt.58cxz.com/001.json","name":"接口"}
+  {"url":"http://tt.58cxz.com/video/4k.json","name":"纯4k"}
   ]
 }
