@@ -5,8 +5,7 @@
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true}, "timeout":30},
     {"key":"荐片弹幕版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout":30},
-    {"key":"泥巴弹幕版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true}, "timeout":30}
-    ],
+    {"key":"泥巴弹幕版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true}, "timeout":30}],
 "parses":[
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
