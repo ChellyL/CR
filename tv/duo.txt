@@ -1,7 +1,6 @@
 {"urls":
   [
   {"url":"http://饭太硬.top/tv","name":"饭太硬"},
-  {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
   {"url":"https://codeberg.org/Pizazz/TVBox/raw/branch/main/api.json","name":"潇洒"},
   {"url":"https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
   {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json","name":"胖虎"},
