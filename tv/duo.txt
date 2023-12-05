@@ -21,6 +21,6 @@
   {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·完整版"},
   {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name":"高天流云·普通版"},
   {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json","name":"高天流云·精简版"},
-  {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"小米小爆脾气"},
+  {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"小米小爆脾气"}
   ]
 }
