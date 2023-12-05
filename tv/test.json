@@ -20,11 +20,13 @@
       "danmu" : true
     },"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
     {"key":"玩偶表哥弹幕","name":"玩偶表哥┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
+      "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",
       "danmu" : true
     },"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
     {"key":"sp360","name":"360┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true},"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
     {"key":"荐片弹幕版","name":"荐片┃弹幕","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
     {"key":"泥巴弹幕版","name":"泥巴┃弹幕","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true},"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
+    {"key":"csp_QuPanSou","name":"趣盘搜┃弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok1204.nogo.png;md5;A205148DAFA6F21F59B1DD52862180E1", "timeout":30},
     {"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1}},
 
 {"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czz9.com/"},
@@ -108,6 +110,7 @@
 {"name":"饭饭","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
+    {"name":"ok","type":1,"url":"http://127.0.0.1:9978/proxy?do=appmaoparse&app=juzi&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"巧记","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"K影院","type":1,"url":"http://pandown.pro/app/lvdou.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
