@@ -5,8 +5,7 @@
     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true}, "timeout":30},
     {"key":"荐片弹幕版","name":"荐片","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}, "timeout":30},
-    {"key":"泥巴弹幕版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true}, "timeout":30},
-    ],
+    {"key":"泥巴弹幕版","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext": {"danmu": true}, "timeout":30}],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
