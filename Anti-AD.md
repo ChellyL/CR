@@ -42,8 +42,8 @@
 (https://github.com/TG-Twilight/AWAvenue-Adblock-Rule)
  | 地址 | 分类|
  |  ---  | ---|
- |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt|Github订阅地址|
- |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt|激进版|
+ |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt|Github订阅地址|
+ |https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule-Strict.txt|激进版|
 
 ----
 
