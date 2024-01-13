@@ -1,10 +1,10 @@
 {"urls":
   [
   {"url":"http://饭太硬.top/tv","name":"饭太硬"},
-  {"url":"https://codeberg.org/Pizazz/TVBox/raw/branch/main/api.json","name":"潇洒"},
+  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"潇洒"},
+  {"url":"http://我不是.肥猫.live/接口禁止贩卖","name":"肥猫"},
   {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json","name":"胖虎"},
   {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"Yoursmile7"},
-  {"url":"https://蜂蜜.eu.org/","name":"蜜蜂"},
   {"url":"https://100km.top/0","name":"纯一骚零"},
   {"url":"https://tvbox.cainisi.cf","name":"菜妮丝"},
   {"url":"https://wds.ecsxs.com/230989.json","name":"春盈天下"},
@@ -12,8 +12,8 @@
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"香情雅"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json","name":"fongmi"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·完整版"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json","name":"高天流云·精简版"},
+  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·完整版[蜜蜂]"},
+  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json","name":"高天流云·精简版[蜜蜂]"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云·道长drpy(js)"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"小米小爆脾气"}
   ]
