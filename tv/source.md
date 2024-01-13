@@ -1,4 +1,6 @@
-潇洒多仓： https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+潇洒： https://github.com/PizazzGY/TVBox
+
+潇洒多仓： https://github.com/PizazzGY/TVBox_warehouse
 
 高天流云：https://github.com/gaotianliuyun/gao
 
