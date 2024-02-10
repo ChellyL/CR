@@ -13,7 +13,6 @@
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json","name":"fongmi专用"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·完整版[fongmi专用]"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json","name":"高天流云·精简版[fongmi专用]"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云·道长drpy(js)"},
-
+  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云·道长drpy(js)"}
   ]
 }
