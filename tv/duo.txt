@@ -1,8 +1,9 @@
 {"urls":
   [
-  {"url":"http://饭太硬.top/tv","name":"饭太硬"},
+  {"url":"http://www.饭太硬.com/tv/","name":"饭太硬"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"潇洒"},
   {"url":"http://我不是.肥猫.live/接口禁止贩卖","name":"肥猫"},
+  {"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/","name":"王二小放牛娃"},
   {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json","name":"胖虎"},
   {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"Yoursmile7"},
   {"url":"https://100km.top/0","name":"纯一骚零"},
