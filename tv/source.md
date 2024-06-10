@@ -4,4 +4,4 @@
 
 高天流云：https://github.com/gaotianliuyun/gao
 
-饭太硬：https://饭太硬.top/
+饭太硬：https://饭太硬.com/
