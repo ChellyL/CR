@@ -1,19 +1,19 @@
 {"urls":
   [
   {"url":"http://www.饭太硬.com/tv/","name":"饭太硬"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"潇洒"},
-  {"url":"http://我不是.肥猫.live/接口禁止贩卖","name":"肥猫"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%BD%B1%E8%A7%86/api.json","name":"潇洒影视"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/api.json","name":"潇洒动漫"},
+  {"url":"http://肥猫.live","name":"肥猫"},
   {"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/","name":"王二小放牛娃"},
   {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json","name":"胖虎"},
   {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"Yoursmile7"},
   {"url":"https://100km.top/0","name":"纯一骚零"},
-  {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧技"},
-  {"url":"https://wds.ecsxs.com/230989.json","name":"春盈天下"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"小米小爆脾气"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json","name":"fongmi专用"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·完整版[fongmi专用]"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json","name":"高天流云·精简版[fongmi专用]"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云·道长drpy(js)"}
+  {"url":"http://ok321.top/tv","name":"OK屌炸天"},
+  {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·饭太硬"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XQY.json","name":"高天流云·香情雅"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云·道长drpy(js)"},
+  {"url":"http://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json","name":"fongmi专用"}
   ]
 }
