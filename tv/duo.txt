@@ -7,7 +7,6 @@
   {"url":"https://100km.top/0","name":"纯一骚零"},
   {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt","name":"潇洒多仓"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%BD%B1%E8%A7%86/api.json","name":"潇洒影视"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/api.json","name":"潇洒动漫"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云·饭太硬"},
