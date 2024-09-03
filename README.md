@@ -11,6 +11,8 @@ https://github.com/kjfx/QuantumultX
 
 https://github.com/ddgksf2013/Profile
 
+https://github.com/SunsetMkt/anti-ip-attribution
+
 https://github.com/Koolson/Qure
 
 https://github.com/gaotianliuyun/gao
