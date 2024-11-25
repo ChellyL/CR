@@ -51,8 +51,10 @@
 (https://github.com/8680/GOODBYEADS)
  | 地址 | 分类|
  |  ---  | ---|
- |https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt|拦截|
- |https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt|白名单|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt|拦截|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt|白名单|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt|DNS拦截|
+ |https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list|QX规则|
 
 上流：AdGuard规则、Tv规则、yhosts规则、大圣净化规则、EasyPrivacy隐私保护规则、乘风视频过滤规则、去APP下载提示规则、d3ward规则、补充规则
 
