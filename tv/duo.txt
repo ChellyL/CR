@@ -10,7 +10,7 @@
   {"url":"http://home.jundie.top:81/top98.json","name":"俊于"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt","name":"橘子柚"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"南风"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"Ray"},
+  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"dxawi"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%BD%B1%E8%A7%86/api.json","name":"潇洒影视"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/api.json","name":"潇洒动漫"}
   ]
