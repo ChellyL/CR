@@ -23,3 +23,5 @@ https://github.com/ChellyL/CR/blob/main/Anti-AD.md
 
 # Tv-box
 https://gh.tuna.eu.org/https://raw.githubusercontent.com/ChellyL/CR/main/tv/duo.txt
+
+https://gh.tuna.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
