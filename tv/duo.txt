@@ -1,7 +1,6 @@
 {"urls":
   [
   {"url":"http://www.饭太硬.com/tv/","name":"饭太硬"},
-  {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json","name":"综合"},
   {"url":"https://gh.tuna.eu.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒"},
   {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json","name":"胖虎"},
   {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
