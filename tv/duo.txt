@@ -2,6 +2,7 @@
   [
   {"url":"http://www.饭太硬.cc/tv","name":"饭太硬"},
   {"url":"http://ok213.top/tv","name":"OK"},
+  {"url":"https://tvbox-public.gaoops.top/","name":"gaoops"},
   {"url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name":"王二小"},
   {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
   {"url":"https://d.kstore.dev/download/7213/吃猫的鱼","name":"吃猫的鱼"},
